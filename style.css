@@ -1,0 +1,66 @@
+
+.first-a {
+    margin-left: 1.5vh;
+    color: whitesmoke;
+}
+
+.first-a:hover{
+    color: whitesmoke;
+    cursor: default;
+}
+
+li {
+    padding: 1.5vh;
+   
+}
+
+.li-itens {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 3vh;
+}
+
+h2{
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+} 
+
+.ancor{
+    color: whitesmoke;
+    font-weight: 500;
+}
+
+.ancor:hover{
+    color: black;
+    
+}
+
+#pending-order{
+    height: 50vh;
+    overflow-y: scroll;
+}
+
+.buttons {
+    border-radius: 5px;
+    color: whitesmoke;
+    background-color: brown;
+}
+
+.navb{
+    background-color: brown;
+}
+
+#allOrders {
+    overflow-y: scroll;
+    height: 70vh;
+}
+
+.btn.btn-danger.remove-product{
+   background-color: brown;
+   color: whitesmoke;
+   border-radius: 5px;
+}
+
+.btn.btn-danger.remove-product:hover{
+    color:black;
+}
